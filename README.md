@@ -1,5 +1,5 @@
 # ridhobot
-BOT WHATSAPP HP RIDHO SETIAWAN
+BOT WHATSAPP HP FastBot
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
